@@ -1,0 +1,14 @@
+git clone https://github.com/MarijaJordanoska/SI_2022_lab1_203029.git
+git add shopping_list.txt
+ git commit -m "“Add 5 items to the shopping list"
+git branch branch1
+git branch branch2
+git checkout branch1
+git checkout branch2
+git checkout master
+git commit --amend -m "Modify item #4 and add item #6"
+git merge branch1
+git merge branch2
+ Имаме рекурзивен начин на спојување
+Конфликтот го решив такашто промените ги бришиме од branch1 и ги спојуваме со branch2 
+
