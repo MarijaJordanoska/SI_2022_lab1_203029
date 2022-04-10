@@ -1,5 +1,5 @@
-mleko
-kafe
-sok
-jogurt
-voda
+mleko x2
+kafe x2
+sok x2
+jogurt x2
+voda x4
